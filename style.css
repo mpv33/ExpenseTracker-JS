@@ -1,0 +1,66 @@
+
+html, body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+    background: lightgray;
+  }
+  
+  .main {
+    display: flex;
+  }
+  
+  .form {
+    width: 30%;
+  }
+  
+  .input-feild {
+    margin: 10px;
+  }
+  
+  .form h3 {
+    text-align: center;
+    color: darkgrey;
+  }
+
+  .result h3 {
+    text-align: center;
+    color: darkgrey;
+  }
+  
+  .form label {
+    margin: 10px;
+  
+  }
+  
+  .form button {
+    float: right;
+    color: #777777;
+  }
+  
+  
+  .list {
+    width: 70%;
+  }
+  
+  .card {
+    margin: 20px;
+    background: wheat;
+    padding: 20px;
+    border-radius: 4px;
+  }
+  
+  .card h3,p,h4 {
+    padding: 0px;
+    margin: 0px;
+    color: #7b7b7b;
+  }
+  
+  .card p {
+    font-size: 12px;
+  }
+
+
+  .result {
+      text-align: center;
+  }
